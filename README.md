@@ -1,5 +1,5 @@
 # Metis-Kojak
-**Project Kojac webscrape flats.ipynb.ipynb**	Notebook for webscraping from shoes.com.
+**Project Kojac webscrape flats.ipynb**	Notebook for webscraping from shoes.com.
 
 **KOJAC model and recommender .ipynb**	Notebook for image preprocessing models trained and recommender. 
 
